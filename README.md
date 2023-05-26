@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del Bootcamp de SoyHenry
+Mariano Lizardi
+Este proyecto es una prueba de como crear un repertorio y clonarlo de GITHUB
